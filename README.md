@@ -29,12 +29,15 @@
 
 <h3><code>adithyasgurikar@github ~ $ ./links.sh</code></h3>
 
-<p><b>AI Builder</b></p>
+<!-- <p><b>AI Builder</b></p> -->
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adithya-shashikumaar-gurikar)
+
+[![Instagram](https://img.shields.io/badge/Instagram-adithya.gurikar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://tinyurl.com/adithyasgurikar)
+
+<!-- [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
 
 <br>
 
