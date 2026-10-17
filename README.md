@@ -35,6 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adithya-shashikumaar-gurikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adithya-shashikumaar-gurikar)
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-adithya.gurikar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://tinyurl.com/adithyasgurikar)
 
 <!-- [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io) -->
